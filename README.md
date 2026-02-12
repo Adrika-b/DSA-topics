@@ -1,2 +1,2 @@
 # DSA-topics
-Solutions to leetcode and gfg core dsa problems
+Solutions to core dsa problems
